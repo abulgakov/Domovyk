@@ -1,9 +1,3 @@
-/*
-    !Do not reload the board just make a switch between STA/AP where you can relaunch one on demand and turn off another one
-
-    Make a reset page as well
-*/
-
 #include <Arduino.h>
 #include <WiFi.h>
 #include <ESPAsyncWebServer.h>
